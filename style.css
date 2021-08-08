@@ -29,14 +29,18 @@
 }
 
 .planer-display h1 {
+  position: absolute;
+  left: 500px;
   font-family: "Galada";
   font-size: 40px;
   margin: 30px;
   height: 80px;
-  width: 300px;
+  width: 400px;
 }
 
 .planer-display h3 {
+  position: relative;
+  left: 400px;
   font-size: 40px;
   font-family: "Galada";
   width: 50px;
@@ -87,9 +91,9 @@ img {
 }
 
 .review {
-  position: absolute;
-  top: 480px;
-  right: 240px;
+  position: relative;
+  top: 430px;
+  left: -60px;
 }
 
 .review input {
