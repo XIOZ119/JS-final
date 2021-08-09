@@ -30,7 +30,7 @@
 
 .planer-display h1 {
   position: absolute;
-  left: 500px;
+  left: 550px;
   font-family: "Galada";
   font-size: 40px;
   margin: 30px;
@@ -101,4 +101,11 @@ img {
   height: 100px;
   font-size: 25px;
   font-family: "PT Serif", "Nanum Pen Script";
+}
+
+#weather {
+  font-size: 20px;
+  font-family: "PT Serif";
+  margin-left: 275px;
+  margin-top: 5px;
 }
